@@ -13,7 +13,7 @@ function App() {
       <Header />
       <div className='min-h-[600px]'>
         <Routes>
-          <Route path="/home" element={<Home/>}/>
+          <Route path="/" element={<Home/>}/>
           <Route path="/product" element={<Product/>} />
           <Route path="/files" element={<Files/>} />
           <Route path="/messages" element={<Messages/>} />
