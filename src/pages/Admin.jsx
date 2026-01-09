@@ -13,7 +13,7 @@ function Admin() {
         <h2 className="mt-3 font-bold text-2xl">Swechha Shrestha</h2>
         <p className="text-sm text-gray-300">swechhashrestha@gmail.com</p>
 
-        <NavLink to="" end className=" hover:text-gray-300 flex items-center justify-evenly mr-10">
+        <NavLink to="/home" end className=" hover:text-gray-300 flex items-center justify-evenly mr-10">
           <i className="fa-solid fa-house"></i>
           Home
         </NavLink>
